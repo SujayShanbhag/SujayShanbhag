@@ -1,6 +1,6 @@
 # About Me
 💫 Hi there! I'm Sujay, a passionate software developer with a strong focus on full stack development. I'm always eager to learn and improve my skills while working on exciting projects.<br><br>
-🔭 **I’m currently working on:**  <br>I’m currently working on: Contributing meaninful changes in opensource.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Containerization, tRPC and gRPC protocols.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, DSA and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing Chess.
+🔭 **I’m currently working on:**  <br>I’m currently working on: Contributing meaningful changes in opensource.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Containerization, tRPC and gRPC protocols.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, DSA and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing Chess.
 
 
 ## 🌐 Socials:
