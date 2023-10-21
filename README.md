@@ -3,7 +3,7 @@
 🔭 **I’m currently working on:**  <br>I’m currently working on: Contributing meaningful changes in opensource.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Containerization, tRPC and gRPC protocols.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, DSA and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing Chess.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sujay_shanbhag) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujay_shanbhag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-shanbhag-94b936249)
 
 # 💻 Tech Stack:
